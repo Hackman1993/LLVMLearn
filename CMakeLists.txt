@@ -1,0 +1,4 @@
+project("LLVMLearn")
+cmake_minimum_required(VERSION 3.21)
+add_subdirectory(CH1)
+add_subdirectory(CH2)
